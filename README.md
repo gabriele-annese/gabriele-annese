@@ -12,9 +12,6 @@ I'm a **backend developer** with a passion for **cybersecurity**. Currently, I a
 ### 📚 Open-Source Projects
 - [Malware Development](https://github.com/gabriele-annese/Malware-Development)
 
-### 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriele-annese&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
-
 ### 💻 Most Used Languages
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriele-annese&layout=compact&theme=radical)
 
