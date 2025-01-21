@@ -2,6 +2,8 @@
 
 I'm a **backend developer** with a passion for **cybersecurity**. Currently, I am specializing in **malware analysis and development**. I love writing offensive tools using **C/C++**, **Go** and **C#**.
 
+[My personal blog](https://gabriele-annese.github.io/MalwareOpsBlog/About/about.html)
+
 ### 🧠 What I'm Studying
 - **[+] Malware analysis and development**
 - **[+] Cybersecurity in general**
@@ -11,13 +13,12 @@ I'm a **backend developer** with a passion for **cybersecurity**. Currently, I a
 - [Malware Development](https://github.com/gabriele-annese/Malware-Development)
 
 ### 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriele-annese&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
 ### 💻 Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriele-annese&layout=compact&theme=radical)
 
 ### 🖥️ Contact
-- [Personal Blog](https://gabriele-annese.github.io/MalwareOpsBlog/About/about.html)
 - [LinkedIn](https://www.linkedin.com/in/gabriele-annese/)
 - [Twitter](https://x.com/SystemError667)
 
