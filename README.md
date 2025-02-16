@@ -2,7 +2,7 @@
 
 *I'm a **backend developer** with a passion for **cybersecurity**. Currently, I am specializing in **malware analysis and development**. I love writing offensive tools using **C/C++**, **Go** and **C#**.*
 
-[My personal blog](https://gabriele-annese.github.io/MalwareOpsBlog/About/about.html)
+👹 [My personal blog](https://gabriele-annese.github.io/MalwareOpsBlog/About/about.html)
 
 ### 🧠 What I'm Studying
 - **[+] Malware analysis and development**
