@@ -1,6 +1,6 @@
 # Hi, I'm Gabriele Annese 👋
 
-*I'm a **backend developer** with a passion for **cybersecurity**. Currently, I am specializing in **malware analysis and development**. I love writing offensive tools using **C/C++**, **Go** and **C#**.*
+*I'm a **backend developer** with a passion for **cybersecurity**. Currently, I am specializing in **malware analysis and development**. I love writing offensive tools using **C/C++**, **Go**, **Rust**, **C#** and **Visual Basic**.*
 
 👹 [My personal blog](https://gabriele-annese.github.io/MalwareOpsBlog/About/about.html)
 
