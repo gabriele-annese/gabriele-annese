@@ -148,6 +148,6 @@ blog: https://www.malware-ops.com/
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
   
   <p>
-    <sub>💀 "In the world of zeros and ones, I find the malicious patterns" 💀</sub>
+    <sub>💀 "The quiter you become, the more you are able to hear" 💀</sub>
   </p>
 </div>
