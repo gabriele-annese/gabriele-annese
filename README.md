@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Gabriele Annese
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=Backend+Developer;Cybersecurity+Enthusiast;Malware+Analyst;Offensive+Security+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=Backend+Developer;Malware+Analyst;Offensive+Security+Developer" alt="Typing SVG" />
 
 </div>
 
@@ -57,38 +57,32 @@ blog: https://www.malware-ops.com/
 
 <div align="center">
   <h2>🚀 Featured Project</h2>
-  
   <a href="https://github.com/gabriele-annese/Malware-Development">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriele-annese&repo=Malware-Development&theme=tokyonight&hide_border=true" alt="Malware Development Repo"/>
+    <img src="https://img.shields.io/badge/🦠_Malware_Development-Repository-red?style=for-the-badge&logo=github&logoColor=white" alt="Malware Development"/>
   </a>
-  
   <p>
-    <a href="https://github.com/gabriele-annese/Malware-Development">
-      <img src="https://img.shields.io/badge/🦠_Malware_Development-Repository-red?style=for-the-badge&logo=github" alt="Malware Development"/>
-    </a>
+    <img src="https://img.shields.io/github/stars/gabriele-annese/Malware-Development?style=social" alt="GitHub stars"/>
+    <img src="https://img.shields.io/github/forks/gabriele-annese/Malware-Development?style=social" alt="GitHub forks"/>
   </p>
+  <p><i>Advanced malware development techniques and offensive security tools</i></p>
 </div>
 
 ---
-
 <div align="center">
   <h2>⚡ Tech Stack</h2>
   <h3>💻 Programming Languages</h3>
 </div>
-
 <p align="center">
   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65"/>
   <img src="https://skillicons.dev/icons?i=c" alt="C" width="65" height="65"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Visual_Basic_Logo_2012.svg" alt="VB.NET" width="65" height="65"/>
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/dotnet.svg" alt="VB.NET" width="65" height="65"/>
   <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="65" height="65"/>
   <img src="https://skillicons.dev/icons?i=go" alt="Go" width="65" height="65"/>
   <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="65" height="65"/>
 </p>
-
 <div align="center">
   <h3>🛠️ DevOps & Cloud</h3>
 </div>
-
 <p align="center">
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65"/>
   <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="65" height="65"/>
@@ -96,30 +90,15 @@ blog: https://www.malware-ops.com/
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65"/>
   <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="65" height="65"/>
 </p>
-
 <div align="center">
   <h3>🗄️ Databases & Tools</h3>
 </div>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mssql" alt="MSSQL" width="65" height="65"/>
+  <img src="https://img.icons8.com/color/96/000000/microsoft-sql-server.png" alt="MSSQL" width="65" height="65"/>
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="65" height="65"/>
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65"/>
   <img src="https://skillicons.dev/icons?i=arch" alt="Arch Linux" width="65" height="65"/>
 </p>
-
----
-
-<div align="center">
-  <h2>📊 GitHub Statistics</h2>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriele-annese&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriele-annese&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriele-annese&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
 
 ---
 
