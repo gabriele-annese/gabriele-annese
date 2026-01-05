@@ -1,77 +1,153 @@
-# Hi, I'm Gabriele Annese 👋
+<div align="center">
 
-I currently work as a **Backend Developer** with a strong passion for **Cybersecurity**.  
-I'm specializing in **Malware Analysis and Development**, with a focus on offensive tools and low-level programming.
+# 👋 Hi, I'm Gabriele Annese
 
-I enjoy writing offensive/security tools using **C**, **C#**, **Go**, **Rust**, **VB.NET** and the **.NET ecosystem**.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=Backend+Developer;Cybersecurity+Enthusiast;Malware+Analyst;Offensive+Security+Developer" alt="Typing SVG" />
 
----
+</div>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40" />
-  My Information
-</h2>
-
-👹 **Personal Blog** → https://www.malware-ops.com/
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gabriele-annese&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
+</p>
 
 ---
 
-## 🧠 What I'm Studying
-- Malware analysis and development  
-- Cybersecurity (offensive & defensive)  
-- Pentesting & security tools
+## 🎯 About Me
+
+```yaml
+name: Gabriele Annese
+role: Backend Developer
+passion: Cybersecurity & Malware Development/Analysis
+focus: 
+  - Offensive Security Tools
+  - Low-level Programming
+  - Malware Development & Analysis
+languages: [C, C#, Go, Rust, VB.NET, .NET]
+blog: https://www.malware-ops.com/
+```
 
 ---
 
-## 📚 Open-Source Projects
-- 🦠 **Malware Development**  
-  https://github.com/gabriele-annese/Malware-Development
+<div align="center">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
+  <h2>🔬 Current Focus Areas</h2>
+</div>
 
----
-
-## ⚙️ Tools & Technologies I Use
-
-<table>
+<table align="center">
   <tr>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="48" height="48"/><br>C#</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=c" width="48" height="48"/><br>C</td>
-    <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Visual_Basic_Logo_2012.svg" width="48" height="48"/><br>Visual Basic</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48"/><br>.NET</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=go" width="48" height="48"/><br>Go</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=rust" width="48" height="48"/><br>Rust</td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="48" height="48"/><br>Kubernetes</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48"/><br>GitHub</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=azure" width="48" height="48"/><br>Azure</td>
-    <td align="center" width="96"><img src="https://iconduck.com/icons/243539/azure-devops/download/png/256x256.png" width="48" height="48"/><br>Azure DevOps</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mssql" width="48" height="48"/><br>Microsoft SQL</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=powershell" width="48" height="48"/><br>PowerShell</td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48"/><br>Postman</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48"/><br>REST API</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=arch" width="48" height="48"/><br>Arch Linux</td>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-malware-internet-security-flaticons-lineal-color-flat-icons.png" width="48"/>
+      <br><b>Malware Analysis</b>
+      <br><sub>Reverse Engineering & Analysis</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/color/48/000000/security-checked.png" width="48"/>
+      <br><b>Cybersecurity</b>
+      <br><sub>Offensive & Defensive</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-pentesting-no-code-flaticons-flat-flat-icons.png" width="48"/>
+      <br><b>Pentesting</b>
+      <br><sub>Security Tools Development</sub>
+    </td>
   </tr>
 </table>
 
 ---
 
-## 📬 Contact Me
+<div align="center">
+  <h2>🚀 Featured Project</h2>
+  
+  <a href="https://github.com/gabriele-annese/Malware-Development">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriele-annese&repo=Malware-Development&theme=tokyonight&hide_border=true" alt="Malware Development Repo"/>
+  </a>
+  
+  <p>
+    <a href="https://github.com/gabriele-annese/Malware-Development">
+      <img src="https://img.shields.io/badge/🦠_Malware_Development-Repository-red?style=for-the-badge&logo=github" alt="Malware Development"/>
+    </a>
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h2>⚡ Tech Stack</h2>
+  <h3>💻 Programming Languages</h3>
+</div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabriele-annese/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  &nbsp;
-  <a href="https://x.com/SystemError667">
-    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?logo=x&logoColor=white" alt="X Badge"/>
-  </a>
-  &nbsp;
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65"/>
+  <img src="https://skillicons.dev/icons?i=c" alt="C" width="65" height="65"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Visual_Basic_Logo_2012.svg" alt="VB.NET" width="65" height="65"/>
+  <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="65" height="65"/>
+  <img src="https://skillicons.dev/icons?i=go" alt="Go" width="65" height="65"/>
+  <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="65" height="65"/>
 </p>
 
+<div align="center">
+  <h3>🛠️ DevOps & Cloud</h3>
+</div>
+
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65"/>
+  <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="65" height="65"/>
+  <img src="https://iconduck.com/icons/243539/azure-devops/download/png/256x256.png" alt="Azure DevOps" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65"/>
+  <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="65" height="65"/>
+</p>
+
+<div align="center">
+  <h3>🗄️ Databases & Tools</h3>
+</div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mssql" alt="MSSQL" width="65" height="65"/>
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65"/>
+  <img src="https://skillicons.dev/icons?i=arch" alt="Arch Linux" width="65" height="65"/>
+</p>
+
+---
+
+<div align="center">
+  <h2>📊 GitHub Statistics</h2>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriele-annese&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriele-annese&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriele-annese&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</div>
+
+---
+
+<div align="center">
+  <h2>🌐 Connect With Me</h2>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/gabriele-annese/">
+      <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://x.com/SystemError667">
+      <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+    </a>
+    <a href="mailto:your-email@example.com">
+      <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://www.malware-ops.com/">
+      <img src="https://img.shields.io/badge/Blog-malware--ops.com-blueviolet?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/>
+    </a>
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  
+  <p>
+    <sub>💀 "In the world of zeros and ones, I find the malicious patterns" 💀</sub>
+  </p>
+</div>
